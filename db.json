@@ -1,44 +1,46 @@
-[
-  {
-    "id": 1,
-    "username": "valera",
-    "email": "val@i.ua",
-    "website": "val.site.ua",
-    "adress": {
-      "country": "ukraine",
-      "region": "kievskiy",
-      "city": "kiev",
-      "street": "pavla tichyny",
-      "home": "12"
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "valera",
+      "email": "val@i.ua",
+      "website": "val.site.ua",
+      "adress": {
+        "country": "ukraine",
+        "region": "kievskiy",
+        "city": "kiev",
+        "street": "pavla tichyny",
+        "home": "12"
+      },
+      "posts": []
     },
-    "posts": []
-  },
-  {
-    "id": 2,
-    "username": "kostya",
-    "email": "kos@i.ua",
-    "website": "kos.site.ua",
-    "adress": {
-      "country": "ukraine",
-      "region": "vinnitsky",
-      "city": "vinnitsa",
-      "street": "Gonty",
-      "home": "41"
+    {
+      "id": 2,
+      "username": "kostya",
+      "email": "kos@i.ua",
+      "website": "kos.site.ua",
+      "adress": {
+        "country": "ukraine",
+        "region": "vinnitsky",
+        "city": "vinnitsa",
+        "street": "Gonty",
+        "home": "41"
+      },
+      "posts": []
     },
-    "posts": []
-  },
-  {
-    "id": 3,
-    "username": "kolya",
-    "email": "kolya@i.ua",
-    "website": "kolya.site.ua",
-    "adress": {
-      "country": "ukraine",
-      "region": "kharkivsky",
-      "city": "kharkiv",
-      "street": "shevchenka",
-      "home": "24"
-    },
-    "posts": []
-  }
-]
+    {
+      "id": 3,
+      "username": "kolya",
+      "email": "kolya@i.ua",
+      "website": "kolya.site.ua",
+      "adress": {
+        "country": "ukraine",
+        "region": "kharkivsky",
+        "city": "kharkiv",
+        "street": "shevchenka",
+        "home": "24"
+      },
+      "posts": []
+    }
+  ]
+}
