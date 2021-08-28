@@ -3,8 +3,8 @@
     {
       "id": 1,
       "username": "valera",
-      "email": "val@i.ua",
-      "website": "val.site.ua",
+      "email": "boyko@i.ua",
+      "website": "kusya.site.ua",
       "adress": {
         "country": "ukraine",
         "region": "kievskiy",
@@ -17,8 +17,8 @@
     {
       "id": 2,
       "username": "kostya",
-      "email": "kos@i.ua",
-      "website": "kos.site.ua",
+      "email": "dok@i.ua",
+      "website": "topol.site.ua",
       "adress": {
         "country": "ukraine",
         "region": "vinnitsky",
@@ -31,8 +31,8 @@
     {
       "id": 3,
       "username": "kolya",
-      "email": "kolya@i.ua",
-      "website": "kolya.site.ua",
+      "email": "zubr@i.ua",
+      "website": "pops.site.ua",
       "adress": {
         "country": "ukraine",
         "region": "kharkivsky",
